@@ -3,8 +3,9 @@ name: bitter-lesson-assessment
 description: Evaluate whether a proposed solution follows the bitter lesson (scales with compute and data) or will likely be surpassed by learned approaches.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3489
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - bitter-lesson-assessment
 - structure
